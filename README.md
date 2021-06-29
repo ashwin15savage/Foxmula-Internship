@@ -15,7 +15,7 @@ Advanced regression techniques like random forest and gradient boosting
 
 The goal is to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
 
-#Description
+# Description
 
 This project is a part of Foxmula internship under Machine Learning Course.
 
@@ -24,5 +24,6 @@ This project is a part of Foxmula internship under Machine Learning Course.
 2.  sample_submission.csv and gbsol.csv consists of input and output file respectively
 
 User ID(UID): 3u5nUIVqP
+
 RID for this program is: P6FI7ioBG
 
